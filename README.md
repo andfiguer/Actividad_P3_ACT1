@@ -1,1 +1,1 @@
-	echo "# Proyecto Inicial "
+	echo "#Proyecto Inicial"
